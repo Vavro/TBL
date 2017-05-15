@@ -8,6 +8,7 @@
 | 13 | todo | todo |
 | 14 | todo | todo |
 | 15 | todo | todo |
+|----
 
 ### City Center
 | Level | Myhtril | Crystal |
