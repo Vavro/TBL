@@ -3,6 +3,7 @@
 ## Upgrade costs
 
 ### Academy
+
 | Level | Mythril | Crystal |
 |:-----|-------:|-------:|
 | 13 | todo | todo |
@@ -11,6 +12,7 @@
 |----
 
 ### City Center
+
 | Level | Myhtril | Crystal |
 |:-----|-------:|-------:|
 | 13 | todo | todo |
