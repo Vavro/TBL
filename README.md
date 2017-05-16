@@ -26,7 +26,7 @@
 |:-----|-------:|-------:|
 | 13 | todo | todo |
 | 14 | todo | todo |
-| 15 | todo | todo |
+| 15 | 722 000 | 1 084 000 |
 | 16 | todo | todo |
 
 ### Barracks
@@ -35,8 +35,8 @@
 |:-----|-------:|-------:|
 | 13 | todo | todo |
 | 14 | todo | todo |
-| 15 | todo | todo |
-| 16 | todo | todo |
+| 15 | 1 084 000 | 361 000 |
+| 16 | ~2 800 000 | ~1 800 000 |
 
 ### Hospital
 
@@ -46,3 +46,14 @@
 | 14 | todo | todo |
 | 15 | todo | todo |
 | 16 | todo | todo |
+
+### Flame Trebuchet
+| Level | Myhtril | Crystal |
+|:-----|-------:|-------:|
+| 15 | 284 000 | 433 000 |
+
+### Magic Tower
+| Level | Myhtril | Crystal |
+|:-----|-------:|-------:|
+| 15 | 180 000 | 542 000 |
+
