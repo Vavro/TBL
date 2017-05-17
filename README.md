@@ -1,8 +1,8 @@
 # Welcome to The Black List page of help
 
-## Upgrade costs
+# Upgrade costs
 
-### City Castle
+## City Castle
 
 | Level | Myhtril | Crystal |
 |:-----|-------:|-------:|
@@ -11,7 +11,7 @@
 | 15 | 1 800 000 | 1 800 000 |
 | 16 | 2 349 000 | 2 349 000 |
 
-### Academy
+## Academy
 
 | Level | Mythril | Crystal |
 |:-----|-------:|-------:|
@@ -22,7 +22,7 @@
 | 15 | 2 100 000 | 1 100 000 |
 | 16 | 2 800 000 | 1 800 000 | 
 
-### Command Center
+## Command Center
 
 | Level | Myhtril | Crystal |
 |:-----|-------:|-------:|
@@ -40,7 +40,7 @@
 | 15 | 1 084 000 | 361 000 |
 | 16 | ~2 800 000 | ~1 800 000 |
 
-### Hospital
+## Hospital
 
 | Level | Myhtril | Crystal |
 |:-----|-------:|-------:|
@@ -49,12 +49,14 @@
 | 15 | todo | todo |
 | 16 | todo | todo |
 
-### Flame Trebuchet
+## Flame Trebuchet
+
 | Level | Myhtril | Crystal |
 |:-----|-------:|-------:|
 | 15 | 284 000 | 433 000 |
 
-### Magic Tower
+## Magic Tower
+
 | Level | Myhtril | Crystal |
 |:-----|-------:|-------:|
 | 15 | 180 000 | 542 000 |
