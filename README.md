@@ -13,7 +13,7 @@
 
 ## Academy
 
-| Level | Crystal   | Myhtril   |
+| Level | *Crystal*{: style="color: #ED3AF8"}   | *Myhtril*{: style="color: #42A5F6"}   |
 |:------|----------:|----------:|
 | 11    | 252 000   | 378 000   | 
 | 12    | todo      | todo      | 
@@ -24,7 +24,7 @@
    
 ## Command Center
 
-| Level | Crystal   | Myhtril   |
+| Level | *Crystal*{: style="color: #ED3AF8"}   | *Myhtril*{: style="color: #42A5F6"}   |
 |:------|----------:|----------:|
 | 13    | todo      | todo    | 
 | 14    | todo      | todo    |
@@ -33,7 +33,7 @@
 
 ### Barracks
 
-| Level | Crystal   | Myhtril   |
+| Level | *Crystal*{: style="color: #ED3AF8"}   | *Myhtril*{: style="color: #42A5F6"}   |
 |:------|----------:|----------:|
 | 13    | todo      |   todo    | 
 | 14    | 637 800   |   212 600 |
@@ -42,7 +42,7 @@
 
 ## Hospital
 
-| Level | Crystal   | Myhtril   |
+| Level | *Crystal*{: style="color: #ED3AF8"}   | *Myhtril*{: style="color: #42A5F6"}   |
 |:------|----------:|----------:|
 | 13 | todo | todo |
 | 14 | todo | todo |
@@ -51,13 +51,13 @@
 
 ## Flame Trebuchet
 
-| Level | Crystal   | Myhtril   |
+| Level | *Crystal*{: style="color: #ED3AF8"}   | *Myhtril*{: style="color: #42A5F6"}   |
 |:------|----------:|----------:|
 | 15 | 433 000 | 284 000 |
 
 ## Magic Tower
 
-| Level | Crystal   | Myhtril   |
+| Level | *Crystal*{: style="color: #ED3AF8"}   | *Myhtril*{: style="color: #42A5F6"}   |
 |:------|----------:|----------:|
 | 15 | 542 000 | 180 000 |
 
