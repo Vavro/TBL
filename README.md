@@ -4,7 +4,7 @@
 
 ## City Castle
 
-| Level | Crystal{: style="color: red"}   | Myhtril   | 
+| Level | *Crystal*{: style="color: red"}   | Myhtril   | 
 |:------|----------:|----------:|
 | 13    | 708 000   | 708 000   |
 | 14    | todo      | todo      |
