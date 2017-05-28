@@ -29,9 +29,9 @@
 | 13    | todo      | todo    | 
 | 14    | todo      | todo    |
 | 15    | 1 084 000 | 722 000 |
-| 16    | todo      | todo    |
+| 16    | 1 409 400 | 939 600 |
 
-### Barracks
+## Barracks
 
 | Level | *Crystal*{: style="color: #ED3AF8"}   | *Myhtril*{: style="color: #42A5F6"}   |
 |:------|----------:|----------:|
@@ -47,7 +47,7 @@
 | 13 | todo | todo |
 | 14 | todo | todo |
 | 15 | todo | todo |
-| 16 | todo | todo |
+| 16 | 2 583 900 | 2 583 900 |
 
 ## Flame Trebuchet
 
@@ -61,3 +61,29 @@
 |:------|----------:|----------:|
 | 15 | 542 000 | 180 000 |
 
+# Upgrades
+
+## Research
+
+| Level | *Crystal*{: style="color: #ED3AF8"}   | *Myhtril*{: style="color: #42A5F6"}   | *Gold*{: style="color: #DBC864"}
+|:------|----------:|----------:|
+| 5 | 169 000  | 169 000 | 84 000 |
+| 9 | ~1 300 000 | ~1 300 000 | ~600 000 |
+| 10 | todo | todo | ~2 000 000 | 
+
+# Gathering speed
+
+## Mine
+*With 3% boost*
+
+| Level | per Second | per Minute | per Hour | Percentage
+| 1  ||
+| 2  ||
+| 3  ||
+| 4  | 1h |
+| 5  |
+| 6 | 11,47	| 688,08 |	41284,67 |	50,00% |
+| 7 | 14,34	| 860,34 |	51620,60 |	62,52% |
+| 8 | 17,19	| 1031,53 |	61891,60 |	74,96% |
+| 9 | 20,09	| 1205,17 |	72310,22 |	87,58% |
+| 10 | 22,94	| 1376,16 |	82569,34 |	100% |
