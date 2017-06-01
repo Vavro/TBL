@@ -70,6 +70,7 @@
 | 17 | 704 700 | 2 114 100 |
 
 ## Storages
+
 | Level | *The other rss (gold needs both)* |
 |:------|----------:|
 | 15 | 506 000 |
@@ -77,6 +78,7 @@
 | 17 | 1 644 300 |
 
 ## Crafters
+
 | Level | *The other rss* |
 |:------|----------:|
 | 17 | 822 000 |
