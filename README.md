@@ -60,6 +60,27 @@
 | Level | *Crystal*{: style="color: #ED3AF8"}   | *Myhtril*{: style="color: #42A5F6"}   |
 |:------|----------:|----------:|
 | 15 | 542 000 | 180 000 |
+| 16 | todo | todo |
+| 17 | 1 057 100 | 352 000 |
+
+## Cannon
+
+| Level | *Crystal*{: style="color: #ED3AF8"}   | *Myhtril*{: style="color: #42A5F6"}   |
+|:------|----------:|----------:|
+| 17 | 704 700 | 2 114 100 |
+
+## Storages
+| Level | *The other rss (gold needs both)* |
+|:------|----------:|
+| 15 | 506 000 |
+| 16 | todo |
+| 17 | 1 644 300 |
+
+## Crafters
+| Level | *The other rss* |
+|:------|----------:|
+| 17 | 822 000 |
+
 
 # Upgrades
 
